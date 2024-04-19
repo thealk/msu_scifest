@@ -14,3 +14,4 @@ These contain an overview of the basic components of speech and speech acoustics
 [See a list of some local Michigan Parkinson's disease resources at our lab website](https://soniclab.msu.edu/for-people-with-parkinson-disease). 
 
 In addition to these, we had a demo of the children's book "My Nunna Has Parkinson's," written by local author Toni Talbot grounded in her experiences with Parkinson's disease. [Buy the book here](https://store.bookbaby.com/book/my-nunna-has-parkinsons). 
+![MyNunnaHasPD](https://github.com/thealk/msu_scifest/assets/3257971/b0fe28e2-00ff-4505-8599-fbea139c90f5)
